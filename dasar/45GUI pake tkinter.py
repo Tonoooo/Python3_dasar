@@ -6,7 +6,6 @@
 #  penjelasan Membuat GUI dengan Built-in Package tkinter
 # ada di video :
 # link   https://youtu.be/RWCeiOCfIuY
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 import tkinter
 
