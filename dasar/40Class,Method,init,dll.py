@@ -8,7 +8,6 @@
 # penjelasan Pengenalan Class dan menggunakan __init__()
 # ada di video :
 # link https://youtu.be/LPVs38kR6tg  dan  https://youtu.be/yfSPeKVfusw
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 #1. Kelas atau class pada python bisa kita katakan sebagai sebuah blueprint (cetakan) dari objek (atau instance) yang
 #      ingin kita buat. Kelas adalah cetakannya atau definisinya, sedangkan objek (atau instance) adalah objek nyatanya.
