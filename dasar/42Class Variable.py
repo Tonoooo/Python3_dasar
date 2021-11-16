@@ -3,7 +3,6 @@
 # penjelasan Class Variable
 # ada di video :
 # link https://youtu.be/dBfAm6dQCcY
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 class mahasiswa():
 
