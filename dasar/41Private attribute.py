@@ -4,7 +4,6 @@
 # penjelasan Private attribute
 # ada di video :
 # link https://youtu.be/9quKCsUtXgk
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 ## contoh penggunaan Private attribute
 class mahasiswa(): 
