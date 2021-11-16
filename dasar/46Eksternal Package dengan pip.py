@@ -3,7 +3,6 @@
 #  penjelasan Menggunakan dan Install Eksternal Package dengan pip
 # ada di video :
 # link   https://youtu.be/EC_N9sSLYLc
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 """
 Menggunakan dan Install Eksternal Package dengan pip
