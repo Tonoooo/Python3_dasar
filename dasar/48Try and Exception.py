@@ -4,7 +4,6 @@
 # penjelasa Try and Exception
 # ada di video :
 # link https://youtu.be/WSCQt2x1bcU
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 ## JIKA INGIN MENJALANKAN salah satu PROGRAM SILANGKAH HAPUS """"""
 
