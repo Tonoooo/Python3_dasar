@@ -10,7 +10,6 @@
 # penjelasa Menmbuat Package
 # ada di video :
 # link https://youtu.be/y3XBTeyAA-E
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 # cara memanggil/menggunakan package
 ## cara 1. cara biasa
