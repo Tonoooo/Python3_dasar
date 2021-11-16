@@ -4,7 +4,6 @@
 # penjelasan dan cara Virtual Environment dan migrasi
 # ada di video :
 # link https://youtu.be/twu1t_yo0PM
-# atau dikomputer E:\belajar\code\python\VideoTutorialPython
 
 
 ### membuat Virtual Environment
