@@ -7,7 +7,6 @@
 # Pejelasan Pendahuluan Inheritance
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/G6fmTwxx8rw
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 
 # super class
