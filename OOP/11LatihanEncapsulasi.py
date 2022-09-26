@@ -3,7 +3,6 @@
 # Pejelasan Latihan Encapsulasi
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/rakQ1ji9XRM
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 
 class Hero:
