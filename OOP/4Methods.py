@@ -3,7 +3,6 @@
 
 # penjelasan Methods 
 # ada di video https://youtu.be/DE-h_oR8Nmo
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 
 class Hero():
