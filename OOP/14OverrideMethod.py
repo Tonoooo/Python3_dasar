@@ -6,7 +6,6 @@
 # Pejelasan Override Method
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/sYKhxqcDu3w
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 
 class Hero:
