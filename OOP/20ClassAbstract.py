@@ -4,7 +4,6 @@
 # Pejelasan Class Abstract
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/oLloOdOmCdQ
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 # abstrak class dia akan memaksa class inheritace(sub class nya) untuk 
 #   mengimplamentasikan metodnya ke sub classnya. kalo tidak diimplamentasikan bakal error
