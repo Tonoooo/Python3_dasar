@@ -3,7 +3,7 @@
 # penjelasan Getter dan Setter
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/ZPU1X5C0DaE
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
+
 
 # jadi ini cara encapsulasi dengan getter dan setter
 
