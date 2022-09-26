@@ -1,7 +1,6 @@
 # Pendahuluan Object Oriented Programming
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/1PjHsUnOkes
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 # dipython kita harus medeklarasikan class itu diatas, sebelum program kita
 
