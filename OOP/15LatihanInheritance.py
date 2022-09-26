@@ -3,7 +3,6 @@
 # Pejelasan Latihan Inheritance
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/sSgKKLzxqS0
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 
 # ini berhubungan dengan modul Hero.py
