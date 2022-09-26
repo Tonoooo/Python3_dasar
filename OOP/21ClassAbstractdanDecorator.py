@@ -3,7 +3,6 @@
 # Pejelasan Class Abstract dan Decorator
 # lebih baik tonton video penjelasannya
 # videonya link: https://youtu.be/nNWkm-Kv4Ps
-# atau di komputer : E:\belajar\Programming\python\VideoTutorialPytho
 
 # Python memiliki sebuah fitur menarik bernama decorator yang berfungsi menambah fungsionalitas pada kode program
 
